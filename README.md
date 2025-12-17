@@ -1,10 +1,10 @@
 ## Oiii! Eu sou o Pedro Lucas 👋
 
-Desenvolvedor **Full Stack** com foco em **Java/Spring Boot**, **Angular**, **Node.js** e **JavaScript**.
-Também trabalho com **Python**, **automações** e **desenvolvimento com IA** (integrações com APIs, workflows e scripts inteligentes).
+Desenvolvedor **Full Stack** com foco em **Java / Spring Boot**, **Angular**, **Node.js** e **JavaScript**.  
+Atuo também com **Python**, **automações** e **desenvolvimento com IA**, criando integrações com APIs, workflows e soluções inteligentes.
 
-> Se os **Github Stats** não carregarem, pode ser instabilidade/limite da API.
-> Você pode subir sua própria instância seguindo o tutorial:
+> Se os **Github Stats** não carregarem, pode ser instabilidade ou limite da API.
+> Você pode subir sua própria instância seguindo o tutorial oficial:
 > https://github.com/anuraghazra/github-readme-stats/blob/master/readme.md#deploy-on-your-own-vercel-instance
 
 <div align="center">
@@ -29,12 +29,12 @@ Também trabalho com **Python**, **automações** e **desenvolvimento com IA** (
 
 <div>
   <a href="mailto:pdrucsec.one@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
-  <a href="https://www.linkedin.com/in/SEU_LINKEDIN/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  <a href="https://www.linkedin.com/in/pdrlucs/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a href="https://github.com/pdrlucs" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white">
   </a>
 </div>
