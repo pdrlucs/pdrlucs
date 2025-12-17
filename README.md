@@ -1,6 +1,6 @@
 <h1 align="center">Pedro Lucas</h1>
 <p align="center">
-  Full Stack Developer • Java • Spring Boot • Angular • Node • JavaScript
+  Full Stack Developer • Java • Spring Boot • Angular • Node • JavaScript • Python • IA
 </p>
 
 <p align="center">
@@ -25,8 +25,9 @@
 
 ## 🧠 Sobre mim
 - Desenvolvedor **Full Stack**
+- Atuação com **Python**, **automações** e **soluções com IA**
 - Foco em **arquitetura limpa**, **boas práticas** e **projetos reais**
-- Backend forte com **Spring Boot** e **Node.js**
+- Backend com **Spring Boot**, **Node.js** e **Python**
 - Frontend moderno com **Angular**
 
 ---
@@ -38,6 +39,8 @@
   <img src="https://img.shields.io/badge/JavaScript-0d1117?logo=javascript&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-0d1117?logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Angular-0d1117?logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-0d1117?logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI%20%26%20Automation-0d1117?logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-0d1117?logo=postgresql&logoColor=white" />
 </p>
 
@@ -45,5 +48,6 @@
 
 ## 📌 Projetos em destaque
 - 🔹 **Taskflow** — Sistema Full Stack (Spring Boot + Angular + JWT)
-- 🔹 **AuditPlus** — Automação e validação de faturamento em saúde
+- 🔹 **AuditPlus** — Automações e validações em saúde (Python)
+- 🔹 **IA & Automations** — Scripts inteligentes, integração com APIs e workflows
 - 🔹 **Movimentos Xadrez** — Projeto didático com lógica e visualização
