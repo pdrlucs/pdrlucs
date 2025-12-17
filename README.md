@@ -1,34 +1,36 @@
+<p align="center">
+  <img src="assets/banner.svg" alt="banner" />
+</p>
+
 <h1 align="center">Pedro Lucas</h1>
 <p align="center">
-  Full Stack Developer • Java • Spring Boot • Angular • Node • JavaScript • Python • IA
+  Full Stack Developer • Java • Spring Boot • Angular • Node • JavaScript • Python • IA & Automações
 </p>
 
 <p align="center">
   <a href="mailto:pdrucsec.one@gmail.com">Email</a> •
-  <a href="https://github.com/pdrucs">GitHub</a>
+  <a href="https://github.com/pdrlucs">GitHub</a>
 </p>
 
 ---
 
 <div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=pdrucs&show_icons=true&count_private=true&include_all_commits=true&theme=github_dark&hide_title=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pdrucs&layout=compact&theme=github_dark" />
-
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=pdrlucs&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&hide_title=true&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pdrlucs&layout=compact&theme=github_dark&hide_border=true" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pdrucs&theme=github-dark" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pdrlucs&theme=github-dark&hide_border=true" />
 </div>
 
 ---
 
 ## 🧠 Sobre mim
 - Desenvolvedor **Full Stack**
-- Atuação com **Python**, **automações** e **soluções com IA**
+- Trabalho com **Python**, **automações** e **desenvolvimento com IA**
 - Foco em **arquitetura limpa**, **boas práticas** e **projetos reais**
-- Backend com **Spring Boot**, **Node.js** e **Python**
-- Frontend moderno com **Angular**
+- Backend: **Spring Boot**, **Node.js**, **Python**
+- Frontend: **Angular**
 
 ---
 
@@ -49,5 +51,4 @@
 ## 📌 Projetos em destaque
 - 🔹 **Taskflow** — Sistema Full Stack (Spring Boot + Angular + JWT)
 - 🔹 **AuditPlus** — Automações e validações em saúde (Python)
-- 🔹 **IA & Automations** — Scripts inteligentes, integração com APIs e workflows
-- 🔹 **Movimentos Xadrez** — Projeto didático com lógica e visualização
+- 🔹 **IA & Automations** — Integrações com APIs e workflows inteligentes
