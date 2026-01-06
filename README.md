@@ -1,6 +1,6 @@
 ## Oiii! Eu sou o Pedro Lucas 👋
 
-Desenvolvedor **Full Stack** com foco em **Java / Spring Boot**, **Angular**, **Node.js** e **JavaScript**.  
+Desenvolvedor **Backend** com foco em **Java / Spring Boot**, **Angular**, **Node.js** e **JavaScript**.  
 Atuo também com **Python**, **automações** e **desenvolvimento com IA**, criando integrações com APIs, workflows e soluções inteligentes.
 
 > Se os **Github Stats** não carregarem, pode ser instabilidade ou limite da API.
